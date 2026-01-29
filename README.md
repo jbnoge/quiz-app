@@ -5,8 +5,6 @@ The app presents users with **randomly ordered questions**, provides **instant f
 
 This project was developed as part of an **internship task** to demonstrate core JavaScript concepts and dynamic UI handling.
 
----
-
 ## 🚀 Features
 
 - ✅ Randomized questions on every reload
@@ -16,15 +14,11 @@ This project was developed as part of an **internship task** to demonstrate core
 - ✅ Clean and user-friendly UI
 - ✅ Pure JavaScript (No frameworks)
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6)** – Quiz logic, randomization, and DOM manipulation  
-
----
 
 ## 📂 Project Structure
 
